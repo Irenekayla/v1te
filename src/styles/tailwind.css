@@ -1,0 +1,23 @@
+/* styles/tailwind.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* tailwind.css */
+
+/* ... other styles */
+
+/* Styles for dark mode */
+.dark {
+    color: white;
+    background-color: #1a202c; /* Dark background color */
+  }
+  
+  /* Black background */
+  .bg-black {
+    background-color: #000; /* Black background color */
+    color: white; /* Text color for the black background */
+  }
+  
+  /* ... other styles */
+  
